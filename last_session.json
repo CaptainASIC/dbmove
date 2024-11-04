@@ -1,0 +1,17 @@
+{
+    "source": {
+        "host": "junction.proxy.rlwy.net",
+        "port": "56662",
+        "username": "root",
+        "password": "",
+        "last_database": "prco_wp_4eo4q"
+    },
+    "destination": {
+        "host": "junction.proxy.rlwy.net",
+        "port": "56662",
+        "username": "",
+        "password": "",
+        "last_database": "whiteglove_wp"
+    },
+    "save_passwords": false
+}
